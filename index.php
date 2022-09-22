@@ -213,8 +213,8 @@
                           </div>
                           <div class="mb-4 resultadoscont">
                             
-                            <p><a href="">Medida construccion de Pared A:</a> &nbsp; <b id="medparedA">150</b>"</p>
-                            <p><a href="">Medida construccion de Pared B:</a> &nbsp; <b id="medparedB">250</b>"</p>
+                            <p><a href="">Medida de construccion de Pared A:</a> &nbsp; <b id="medparedA">150</b>"</p>
+                            <p><a href="">Medida de construccion de Pared B:</a> &nbsp; <b id="medparedB">250</b>"</p>
                             <p><a href="">Total de Area de construccion:</a> &nbsp; <b id="totalArea">250</b>"</p>
                             <p><a href="">Total Estimado de Cotizacion :</a> &nbsp; <b id="totalCotiz">150,000</b></p>
 
