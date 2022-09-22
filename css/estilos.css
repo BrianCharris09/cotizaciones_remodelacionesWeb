@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+
+.contenedores{
+    display: flex;
+    width: 100vw;
+    height: 90vh;
+}
+
+
+.contenedores section{
+    background-color: whitesmoke;
+    /* centrado vertical */
+    width: 30%;
+    margin: auto;
+    padding: 18px;
+}
+
+.contenedores section h1{
+    font-size: 25px;
+    text-align: center;
+}
+
+label{
+    font-weight: bold;
+}
+
+input[type="text"],input[type="email"],input[type="number"]{
+    height: 40px;
+    border: 2px solid #657dc0a4;
+}
+
+#sect3{
+    width: 42%;
+}
+
+#sect4{
+    width: 50%;
+}
+
+.resultadoscont{
+    background-color: #cacaca;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.resultadoscont p{
+    margin: 0;
+    padding-bottom: 2px;
+}
+
+.resultadoscont a{
+    color: black;
+    font-weight: bold;
+}
+
+.mouseHand2{
+    cursor: pointer;
+}
+
+
+.hidden{
+    display: none;
+}
+
+.active{
+    display: block;
+}
